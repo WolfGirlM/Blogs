@@ -2,8 +2,7 @@
 
 #### 这里记录日常工作及学习中关于前端、但不局限于前端方面的实践、记录。
 
-![](https://img-blog.csdnimg.cn/20200404172205124.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1dvbmRlcl9SaXNr,size_16,color_FFFFFF,t_70)
-
+![](https://user-gold-cdn.xitu.io/2020/4/4/17144836a391ea65?w=311&h=322&f=png&s=102454)
 
 #### 送你一首诗🍃
 
