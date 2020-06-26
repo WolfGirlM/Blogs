@@ -4,7 +4,7 @@
 
 # Site
 title: WolfGirlM's Blog
-subtitle: ''
+subtitle: 'The old Man Says'
 description: ''
 keywords:
 author: WolfGirlM
@@ -45,12 +45,22 @@ post_asset_folder: false
 relative_link: false
 future: true
 highlight:
-  enable: true
+  enable: false
   line_number: true
   auto_detect: false
   tab_replace: ''
   wrap: true
   hljs: false
+  
+prism:
+  highlight:
+  enable: false
+
+prism_plugin:
+  mode: 'preprocess'    # realtime/preprocess
+  theme: 'tomorrow'
+  line_number: false    # default false
+  custom_css:
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
