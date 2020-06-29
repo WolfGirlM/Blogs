@@ -110,3 +110,11 @@ theme: hexo-theme-matery
 deploy:
   type: git
   repo: git@github.com:WolfGirlM/blog.git
+
+search:
+  path: search.xml
+  field: post
+
+permalink_pinyin:
+  enable: true
+  separator: '-' # default: '-'
