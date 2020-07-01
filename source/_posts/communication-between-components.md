@@ -1,5 +1,7 @@
 ---
 title: Vue组件间通信方式
+tags: Vue
+categories: 前端
 ---
 
 ### 一、组件间存在的关系
