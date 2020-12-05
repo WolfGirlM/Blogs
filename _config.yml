@@ -135,3 +135,9 @@ live2d:
     show: false  #是否在手机进行显示
   react:
     opacity: 0.7
+
+lazyload:
+  enable: true
+  onlypost: false # optional
+  loadingImg: # optional eg ./images/loading.gif
+  isSPA: false # optional
